@@ -1,0 +1,7 @@
+
+[theme]
+primaryColor = '#1a1c92ff'
+backgroundColor = '#ffffffff'
+secondaryBackgroundColor = 'hsla(215, 75%, 97%, 1.00)'
+textColor = '#262730'
+font = 'sans serif'
